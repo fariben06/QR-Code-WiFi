@@ -34,6 +34,6 @@ qr_code.make_image().save('qr.png')
 
 ## Dépendances
 
--[Pillow](https://pypi.org/project/Pillow/)
+- [Pillow](https://pypi.org/project/Pillow/)
 
 - [qrcode](https://pypi.org/project/qrcode/)
